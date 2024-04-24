@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,audid-api.taobao.com, reject
 DOMAIN-SUFFIX,stun4.l.google.com, reject
 DOMAIN-SUFFIX,in.appcenter.ms, reject
 DOMAIN-SUFFIX,aegis.qq.com, reject
-DOMAIN-SUFFIX,otk.pinduoduo.com, reject
+DOMAIN-SUFFIX,pinduoduo.com, reject
 DOMAIN-SUFFIX,httpdns.alicdn.com, reject
 DOMAIN-SUFFIX,roi.soulapp.cn, reject
 DOMAIN-SUFFIX,static.tongdun.net, reject
