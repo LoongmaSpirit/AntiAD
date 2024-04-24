@@ -215,3 +215,5 @@ DOMAIN-SUFFIX,3gimg.qq.com, reject
 DOMAIN-SUFFIX,mob.com, reject
 DOMAIN-SUFFIX,loggw.alipay.com.cn, reject
 DOMAIN-SUFFIX,yun-hl.3g.qq.com, reject
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com, reject
+DOMAIN-SUFFIX,rd.kuaigames.com, reject
