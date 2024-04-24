@@ -214,3 +214,4 @@ DOMAIN-SUFFIX,id6.me, reject
 DOMAIN-SUFFIX,3gimg.qq.com, reject
 DOMAIN-SUFFIX,mob.com, reject
 DOMAIN-SUFFIX,loggw.alipay.com.cn, reject
+DOMAIN-SUFFIX,yun-hl.3g.qq.com, reject
