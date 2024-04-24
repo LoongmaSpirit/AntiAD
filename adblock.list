@@ -198,8 +198,13 @@ DOMAIN,im-x.jd.com, reject
 DOMAIN,catdot.dianping.com, reject
 DOMAIN,pingfore.qq.com, reject
 DOMAIN,tracker.didistatic.com, reject
-DOMAIN,loc.map.baidu.com, reject
+DOMAIN-SUFFIX,loc.map.baidu.com, reject
 DOMAIN,eafddirect.msedge.net, reject
 DOMAIN,httpdns.c.cdnhwc2.com, reject
 DOMAIN,gia.jd.com, reject
 DOMAIN,hm.baidu.com, reject
+DOMAIN,mdap.alipay.com, reject
+DOMAIN,h-adashx.ut.taobao.com, reject
+DOMAIN-SUFFIX,log.aliyuncs.com, reject
+DOMAIN,abtest.alibaba.com, reject
+DOMAIN,h-adashx.ut.taobao.com, reject
