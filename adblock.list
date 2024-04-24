@@ -7,10 +7,10 @@ DOMAIN-SUFFIX,dataflow.biliapi.com, reject
 DOMAIN-SUFFIX,data.bilibili.com, reject
 DOMAIN-SUFFIX,ali-stats.jpush.cn, reject
 DOMAIN-SUFFIX,rdelivery.qq.com, reject
-DOMAIN-SUFFIX,znkfy9-launches.appsflyersdk.com, reject
+DOMAIN-SUFFIX,launches.appsflyersdk.com, reject
 DOMAIN-SUFFIX,wdaa.shuzilm.cn, reject
 DOMAIN-SUFFIX,www.taobao.com, reject
-DOMAIN-SUFFIX,ce3e75d5-ipv6.jpush.cn, reject
+DOMAIN-SUFFIX,ipv6.jpush.cn, reject
 DOMAIN-SUFFIX,newloc.map.n.shifen.com, reject
 DOMAIN-SUFFIX,route-stats.dreport.meituan.net, reject
 DOMAIN-SUFFIX,sis-ipv6.jpush.cn, reject
@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,stat.vipstatic.com, reject
 DOMAIN-SUFFIX,umdc.alibabachengdun.com, reject
 DOMAIN-SUFFIX,graph.facebook.com, reject
 DOMAIN-SUFFIX,lpcdn.pinduoduo.com, reject
-DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com, reject
+DOMAIN-SUFFIX,cdn-tos.bytegoofy.com, reject
 DOMAIN-SUFFIX,live-trace.bilibili.com, reject
 DOMAIN-SUFFIX,cdn.ynuf.aliapp.org, reject
 DOMAIN-SUFFIX,ios.bugly.qq.com, reject
@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,g.cn.miaozhen.com, reject
 DOMAIN-SUFFIX,apikey.map.qq.com, reject
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn, reject
 DOMAIN-SUFFIX,stats.jpush.cn, reject
-DOMAIN-SUFFIX,ce3e75d5.jpush.cn, reject
+DOMAIN-SUFFIX,jpush.cn, reject
 DOMAIN-SUFFIX,api-analytics-de.zepp.com, reject
 DOMAIN-SUFFIX,h.trace.qq.com, reject
 DOMAIN-SUFFIX,chinaeast2-0.in.applicationinsights.azure.cn, reject
