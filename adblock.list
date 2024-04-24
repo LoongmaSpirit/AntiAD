@@ -208,3 +208,4 @@ DOMAIN-SUFFIX,h-adashx.ut.taobao.com, reject
 DOMAIN-SUFFIX,log.aliyuncs.com, reject
 DOMAIN-SUFFIX,abtest.alibaba.com, reject
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com, reject
+DOMAIN-SUFFIX,app-analytics-services.com, reject
