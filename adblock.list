@@ -210,3 +210,6 @@ DOMAIN-SUFFIX,abtest.alibaba.com, reject
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com, reject
 DOMAIN-SUFFIX,app-analytics-services.com, reject
 DOMAIN-SUFFIX,bluedot.is.autonavi.com.gds.alibabadns.com, reject
+DOMAIN-SUFFIX,id6.me, reject
+DOMAIN-SUFFIX,3gimg.qq.com, reject
+DOMAIN-SUFFIX,mob.com, reject
