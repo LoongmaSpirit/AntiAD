@@ -201,3 +201,5 @@ DOMAIN,tracker.didistatic.com, reject
 DOMAIN,loc.map.baidu.com, reject
 DOMAIN,eafddirect.msedge.net, reject
 DOMAIN,httpdns.c.cdnhwc2.com, reject
+DOMAIN,gia.jd.com, reject
+DOMAIN,hm.baidu.com, reject
