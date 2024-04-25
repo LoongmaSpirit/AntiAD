@@ -222,3 +222,5 @@ DOMAIN-SUFFIX,wcp.taobao.com, reject
 DOMAIN-SUFFIX,cddp-track.aligames.com, reject
 DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com, reject
 DOMAIN-SUFFIX,mcs.zijieapi.com, reject
+DOMAIN-SUFFIX,ug.baidu.com, reject
+DOMAIN-SUFFIX,hpd.baidu.com, reject
