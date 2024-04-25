@@ -219,3 +219,6 @@ DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com, reject
 DOMAIN-SUFFIX,rd.kuaigames.com, reject
 DOMAIN-SUFFIX,log.biligame.net, reject
 DOMAIN-SUFFIX,wcp.taobao.com, reject
+DOMAIN-SUFFIX,cddp-track.aligames.com, reject
+DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com, reject
+DOMAIN-SUFFIX,mcs.zijieapi.com, reject
