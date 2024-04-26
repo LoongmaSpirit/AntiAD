@@ -123,7 +123,6 @@ DOMAIN-SUFFIX,dns.google, reject
 DOMAIN-SUFFIX,update.pan.baidu.com, reject
 DOMAIN-SUFFIX,ios.rqd.qq.com, reject
 DOMAIN-SUFFIX,gd-stats.jpush.cn, reject
-DOMAIN-SUFFIX,app.bilibili.com, reject
 DOMAIN-SUFFIX,x.research.qq.com, reject
 DOMAIN-SUFFIX,stun.l.google.com, reject
 DOMAIN-SUFFIX,smartop-sdkapi-ipv6.jiguang.cn, reject
