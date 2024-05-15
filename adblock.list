@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,static.tongdun.net, reject
 DOMAIN-SUFFIX,report.meituan.com, reject
 DOMAIN-SUFFIX,sc.appvipshop.com, reject
 DOMAIN-SUFFIX,nw-umwatson.events.data.microsoft.com, reject
-DOMAIN-SUFFIX,device-provisioning.googleapis.com, reject
 DOMAIN-SUFFIX,s-gm.mmstat.com, reject
 DOMAIN-SUFFIX,analytics.meituan.net, reject
 DOMAIN-SUFFIX,safebrowsing.googleapis.com, reject
