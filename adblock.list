@@ -111,7 +111,6 @@ DOMAIN-SUFFIX,fp.msedge.net, reject
 DOMAIN-SUFFIX,arc-ring.msedge.net, reject
 DOMAIN-SUFFIX,easytomessage.com, reject
 DOMAIN-SUFFIX,pgdt.gtimg.cn, reject
-DOMAIN-SUFFIX,www.google.com, reject
 DOMAIN-SUFFIX,tsis.jpush.cn, reject
 DOMAIN-SUFFIX,mcr-ring.msedge.net, reject
 DOMAIN-SUFFIX,odinvzc.azureedge.net, reject
