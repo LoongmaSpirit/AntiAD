@@ -150,7 +150,6 @@ DOMAIN-SUFFIX,gias.jd.com,reject
 DOMAIN-SUFFIX,badjs.weixinbridge.com,reject
 DOMAIN-SUFFIX,nj.t.bcsp2p.baidu.com,reject
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,reject
-DOMAIN-SUFFIX,dreport.meituan.net,reject
 DOMAIN-SUFFIX,tracking.miui.com,reject
 DOMAIN-SUFFIX,api-unionid.meituan.com,reject
 DOMAIN-SUFFIX,resolver.dingtalk.com,reject
