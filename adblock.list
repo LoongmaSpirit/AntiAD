@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,wdaa.shuzilm.cn,reject
 DOMAIN-SUFFIX,www.taobao.com,reject
 DOMAIN-SUFFIX,ipv6.jpush.cn,reject
 DOMAIN-SUFFIX,newloc.map.n.shifen.com,reject
-DOMAIN-SUFFIX,route-stats.dreport.meituan.net,reject
 DOMAIN-SUFFIX,sis-ipv6.jpush.cn,reject
 DOMAIN-SUFFIX,blackhole.m.jd.com,reject
 DOMAIN-SUFFIX,up-hl.3g.qq.com,reject
